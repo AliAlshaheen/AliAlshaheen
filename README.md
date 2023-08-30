@@ -3,7 +3,7 @@
 ## About Me 📝
 - 🔭 **Current Role**: Computer Science Student at University of Illinois Chicago (UIC)
 - 🌱 **I'm Learning**: Advanced programming techniques, data structures, and algorithms
-- 👯 **Collaboration**: I value teamwork and am open to collaborating on various tech projects
+- 👯 **Collaboration**: I value teamwork and I am open to collaborating on various tech projects
 - 📫 **Contact**: 
   - 📞 Phone: 773-818-7416
   - 📧 Email: [alshaheen.ali23@gmail.com](mailto:alshaheen.ali23@gmail.com)
