@@ -7,7 +7,7 @@
 - 📫 **Contact**: 
   - 📞 Phone: 773-818-7416
   - 📧 Email: [alshaheen.ali23@gmail.com](mailto:alshaheen.ali23@gmail.com)
-- ⚡ **Fun fact**: Became the family tech expert at the age of 7!
+- ⚡ **Fun fact**: I want to one day travel the whole world
 
 ## Skills 💻
 - **Programming Languages**: C/C++, F#, SQL, Java, Python, MATLAB
