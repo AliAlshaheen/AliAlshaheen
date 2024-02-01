@@ -6,7 +6,7 @@
 - 👯 **Collaboration**: I value teamwork and I am open to collaborating on various tech projects
 - 📫 **Contact**: 
   - 📞 Phone: 773-818-7416
-  - 📧 Email: [alshaheen.ali23@gmail.com](mailto:alshaheen.ali23@gmail.com)
+  - 📧 Email: [alihadeeralshaheen@gmail.com](mailto:alihadeeralshaheen@gmail.com)
 - ⚡ **Fun fact**: I want to one day travel the whole world
 
 ## Skills 💻
