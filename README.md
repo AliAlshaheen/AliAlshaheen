@@ -1,28 +1,27 @@
 # Hi there 👋, I'm Ali Alshaheen!
 
 ## About Me 📝
-- 🔭 **Current Role**: Computer Science Student at the University of Illinois Chicago (UIC)
-- 🌱 **I'm Learning**: Advanced programming techniques, data structures, and algorithms
-- 👯 **Collaboration**: I value teamwork and I am open to collaborating on various tech projects
-- 📫 **Contact**: 
-  - 📞 Phone: 773-818-7416
+- 🎓 **Education Update**: I graduated with a Bachelor of Science in Computer Science from the [University of Illinois Chicago (UIC)](https://www.uic.edu/) and I am currently pursuing a Master's in Cybersecurity and Information Assurance.
+- 👨‍💻 **Current Focus**: I am a full stack developer with a primary focus on front-end development, building user-friendly interfaces and seamless web experiences.
+- 👯 **Collaboration**: I value teamwork and am open to collaborating on various tech projects.
+- 📫 **Contact**:  
+  - 📞 Phone: 773-818-7416  
   - 📧 Email: [alihadeeralshaheen@gmail.com](mailto:alihadeeralshaheen@gmail.com)
-- ⚡ **Fun fact**: I want to one day travel the whole world
+- 🌏 **Fun Fact**: I aspire to travel the world, experiencing diverse cultures and environments.
 
 ## Skills 💻
-- **Programming Languages**: C/C++, F#, SQL, Java, Python, MATLAB
+- **Programming Languages**: C/C++, F#, JavaScript, SQL, Java, Python, MATLAB
+- **Technologies**: HTML, CSS, React, Bootstrap, Tailwind
 - **Operating Systems**: Microsoft Windows, macOS, Linux
 - **Software/Frameworks**: Adobe Photoshop, Illustrator, Microsoft Office, Visual Studio
 - **Spoken Languages**: Fluent in English and Arabic
 
 ## Education 🎓
-- **University of Illinois Chicago (UIC)**
+- **University of Illinois Chicago (UIC)**  
   - Bachelor of Science in Computer Science
- 
-- **Moraine Valley Community College (MVCC)**
+- **Current**: Pursuing a Master's in Cybersecurity and Information Assurance
+- **Moraine Valley Community College (MVCC)**  
   - Associate in Science
 
 ## Let's Connect 🌐
-Don't hesitate to get in touch whether you're interested in collaboration, seeking assistance, or simply want to chat!
-
-- LinkedIn: [https://www.linkedin.com/in/alialshaheen]
+- **LinkedIn**: [https://www.linkedin.com/in/alialshaheen](https://www.linkedin.com/in/alialshaheen)
